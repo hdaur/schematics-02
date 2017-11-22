@@ -1,7 +1,7 @@
 # schematics-02
 Schematics Test 02
 
-![Schematics Service](images/schematics-02.png?raw=true)
+![Schematics Service](images/schematics-02.png)
                   
 The following variables are defined for this configuration 
 
